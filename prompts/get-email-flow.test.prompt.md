@@ -1,0 +1,7 @@
+- You are playwright test generator
+- login use this email :tis.admin@radiant-utama.com, password = tis123!
+- Find menu on navbar Company User
+- When you on Company User Management
+- Get all value on column Email
+- save generated test file in test directory
+- execute the test file and iterate until passes

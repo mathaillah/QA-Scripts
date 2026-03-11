@@ -1,0 +1,46 @@
+QIMS Login Test Results
+========================
+Date: 2026-01-24T02:17:36.749Z
+Total emails tested: 36
+Successful: 10
+Failed: 26
+
+--- SUCCESSFUL LOGINS ---
+charlespjh@radiant-utama.com
+aan.pujihidayat@radiant-utama.com
+septian.dwicahyo@radiant-utama.com
+apriyansyah.diharja@radiant-utama.com
+wawan.riswandi@radiant-utama.com
+yadi@radiant-utama.com
+sammartin.alnur@radiant-utama.com
+darmanto@radiant-utama.com
+bayu.marendra@radiant-utama.com
+dwi.septian@radiant-utama.com
+
+--- FAILED LOGINS ---
+mirza.syahid@radiant-utama.com | Reason: User with email "mirza.syahid@radiant-utama.com" not found
+aan.busroo@radiant-utama.com | Reason: User with email "aan.busroo@radiant-utama.com" not found
+syambasHR@radiant.co.id | Reason: User with email "syambasHR@radiant.co.id" not found
+marius-lele@radiant-utama.com | Reason: User with email "marius-lele@radiant-utama.com" not found
+arief.norrachman@radiant-utama.com | Reason: User with email "arief.norrachman@radiant-utama.com" not found
+bahrul@radiant-utama.com | Reason: User with email "bahrul@radiant-utama.com" not found
+rama.adi@radiant-utama.com | Reason: User with email "rama.adi@radiant-utama.com" not found
+turino@radiant-utama.com | Reason: User with email "turino@radiant-utama.com" not found
+mei.hermawan@radiant.co.id | Reason: User with email "mei.hermawan@radiant.co.id" not found
+arief.said@radiant-utama.com | Reason: User with email "arief.said@radiant-utama.com" not found
+arief.said@ris-integrity.com | Reason: User with email "arief.said@ris-integrity.com" not found
+lutfanudin@radiant.co.id | Reason: User with email "lutfanudin@radiant.co.id" not found
+taufiq@radiant.co.id | Reason: User with email "taufiq@radiant.co.id" not found
+abdullah.syaugi@radiant.co.id | Reason: User with email "abdullah.syaugi@radiant.co.id" not found
+yogi.ariew@radiant.co.id | Reason: User with email "yogi.ariew@radiant.co.id" not found
+sidiq.rohmadi@radiant.co.id | Reason: User with email "sidiq.rohmadi@radiant.co.id" not found
+sujarna@radiant.co.id | Reason: User with email "sujarna@radiant.co.id" not found
+marji.widada@radiant.co.id | Reason: User with email "marji.widada@radiant.co.id" not found
+amalia@radiant-utama.com | Reason: Login failed
+maya.amalia@radiant-utama.com | Reason: User with email "maya.amalia@radiant-utama.com" not found
+fitri.widiastuti@radiant-utama.com | Reason: User with email "fitri.widiastuti@radiant-utama.com" not found
+ilham@supraco.net | Reason: User with email "ilham@supraco.net" not found
+soeharto.nurcahyono@radiant.co.id | Reason: User with email "soeharto.nurcahyono@radiant.co.id" not found
+yoga.suryanto@radiant.co.id | Reason: User with email "yoga.suryanto@radiant.co.id" not found
+ramzy@radiant.co.id | Reason: User with email "ramzy@radiant.co.id" not found
+zakimaulana@radiant-utama.com | Reason: User with email "zakimaulana@radiant-utama.com" not found

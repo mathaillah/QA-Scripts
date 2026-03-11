@@ -1,0 +1,171 @@
+
+Running 1 test using 1 worker
+
+[1A[2K[1/1] [chromium] › tests\login-email-list.spec.ts:5:5 › Test login with email list from radiant-utama-emails.txt
+[1A[2K[chromium] › tests\login-email-list.spec.ts:5:5 › Test login with email list from radiant-utama-emails.txt
+
+Testing all emails (set TEST_LIMIT=N to limit)
+
+[1A[2K
+Total emails in file: 159
+
+[1A[2KTesting: 159 emails
+
+[1A[2KPassword: tis123!
+
+
+[1A[2K[1/159] Testing login for: aan.pujihidayat@radiant-utama.com
+
+[1A[2K  ❌ FAILED: aan.pujihidayat@radiant-utama.com
+
+[1A[2K[2/159] Testing login for: abdul.wakit@radiant-utama.com
+
+[1A[2K  ❌ ERROR: abdul.wakit@radiant-utama.com - page.goto: net::ERR_ABORTED at https://dev.lucatris.com/auth
+Call log:
+[2m  - navigating to "https://dev.lucatris.com/auth", waiting until "networkidle"[22m
+
+
+[1A[2K[3/159] Testing login for: achmad.akson@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.akson@radiant-utama.com
+
+[1A[2K[4/159] Testing login for: achmad.jamaludin@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.jamaludin@radiant-utama.com
+
+[1A[2K[5/159] Testing login for: ahmad.maulana@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ahmad.maulana@radiant-utama.com
+
+[1A[2K[6/159] Testing login for: achmad.yandi@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.yandi@radiant-utama.com
+
+[1A[2K[7/159] Testing login for: adepian.putra@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adepian.putra@radiant-utama.com
+
+[1A[2K[8/159] Testing login for: adi.susanto@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adi.susanto@radiant-utama.com
+
+[1A[2K[9/159] Testing login for: aditya.pramudito@radiant-utama.com
+
+[1A[2K  ❌ FAILED: aditya.pramudito@radiant-utama.com
+
+[1A[2K[10/159] Testing login for: adjilla.arief@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adjilla.arief@radiant-utama.com
+
+[1A[2K[11/159] Testing login for: aan.pujihidayat@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: aan.pujihidayat@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[12/159] Testing login for: abdul.wakit@radiant-utama.com
+
+[1A[2K  ❌ FAILED: abdul.wakit@radiant-utama.com
+
+[1A[2K[13/159] Testing login for: achmad.akson@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.akson@radiant-utama.com
+
+[1A[2K[14/159] Testing login for: achmad.jamaludin@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.jamaludin@radiant-utama.com
+
+[1A[2K[15/159] Testing login for: ahmad.maulana@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ahmad.maulana@radiant-utama.com
+
+[1A[2K[16/159] Testing login for: achmad.yandi@radiant-utama.com
+
+[1A[2K  ❌ FAILED: achmad.yandi@radiant-utama.com
+
+[1A[2K[17/159] Testing login for: adepian.putra@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adepian.putra@radiant-utama.com
+
+[1A[2K[18/159] Testing login for: adi.susanto@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adi.susanto@radiant-utama.com
+
+[1A[2K[19/159] Testing login for: aditya.pramudito@radiant-utama.com
+
+[1A[2K  ❌ FAILED: aditya.pramudito@radiant-utama.com
+
+[1A[2K[20/159] Testing login for: adjilla.arief@radiant-utama.com
+
+[1A[2K  ❌ FAILED: adjilla.arief@radiant-utama.com
+
+[1A[2K[21/159] Testing login for: ageng.laksito@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ageng.laksito@radiant-utama.com
+
+[1A[2K[22/159] Testing login for: agung@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: agung@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[23/159] Testing login for: agus.dwiprasetyo@radiant-utama.com
+
+[1A[2K  ❌ FAILED: agus.dwiprasetyo@radiant-utama.com
+
+[1A[2K[24/159] Testing login for: agus.suteja@radiant-utama.com
+
+[1A[2K  ❌ FAILED: agus.suteja@radiant-utama.com
+
+[1A[2K[25/159] Testing login for: agustar@radiant-utama.com
+
+[1A[2K  ❌ FAILED: agustar@radiant-utama.com
+
+[1A[2K[26/159] Testing login for: ahmad.barudin@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: ahmad.barudin@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[27/159] Testing login for: ahmad.fauzi@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ahmad.fauzi@radiant-utama.com
+
+[1A[2K[28/159] Testing login for: ainul.harahap@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ainul.harahap@radiant-utama.com
+
+[1A[2K[29/159] Testing login for: akhir.purwanto@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: akhir.purwanto@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[30/159] Testing login for: alwan.husain@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: alwan.husain@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[31/159] Testing login for: amirul.irsyad@radiant-utama.com
+
+[1A[2K  ✓ SUCCESS: amirul.irsyad@radiant-utama.com
+
+[1A[2K    Logged out successfully
+
+[1A[2K[32/159] Testing login for: andhika.saputra@radiant-utama.com
+
+[1A[2K  ❌ FAILED: andhika.saputra@radiant-utama.com
+
+[1A[2K[33/159] Testing login for: ari.fahrudin@radiant-utama.com
+
+[1A[2K  ❌ FAILED: ari.fahrudin@radiant-utama.com
+
+[1A[2K[34/159] Testing login for: aris.satyaandita@radiant-utama.com
+
+[1A[2K  ❌ FAILED: aris.satyaandita@radiant-utama.com
+
+[1A[2K[35/159] Testing login for: aris.agustino@radiant-utama.com
+
+[1A[2K  ❌ FAILED: aris.agustino@radiant-utama.com
+

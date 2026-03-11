@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx playwright:*)",
+      "Bash(dir:*)",
+      "Bash(timeout /t 30)",
+      "Bash(TEST_LIMIT=10 npx playwright test:*)",
+      "Bash(taskkill:*)",
+      "Bash(npx kill-port 9323)",
+      "Bash(netstat -ano)",
+      "Bash(if not exist \"C:\\\\Users\\\\Syaiful\\\\Projects\\\\QA\\\\Playwright\\\\playwright-dev.lucatris_regulatory\\\\docs\\\\qa\" mkdir \"C:\\\\Users\\\\Syaiful\\\\Projects\\\\QA\\\\Playwright\\\\playwright-dev.lucatris_regulatory\\\\docs\\\\qa\")",
+      "Bash(node scripts/merge-csv-data-v2.js:*)"
+    ]
+  }
+}
